@@ -1,0 +1,27 @@
+#ball
+{
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  background-color: black;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+#field
+{
+  width: 95%;
+  height: 95%; 
+  border: 2px solid black;
+  position: absolute;
+}
+
+.paddle
+{
+  width: 10px;
+  height: 100px;
+  background-color: black;
+  position: absolute;
+  left: 40px;
+}
