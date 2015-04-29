@@ -15,6 +15,13 @@
   height: 95%; 
   border: 2px solid black;
   position: absolute;
-
 }
 
+.paddle
+{
+  width: 10px;
+  height: 100px;
+  background-color: black;
+  position: absolute;
+  left: 40px;
+}
